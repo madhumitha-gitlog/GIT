@@ -7,6 +7,10 @@
 </head>
 <body>
    <h1>Welcome to My Webapp</h1>
+   <title>My First Webpage</title>
+</head>
+<body>
+   <h1>Welcome to My Website</h1>
    <p>This is my first paragraph in HTML.</p>
    <a href="https://www.example.com">Visit Example</a>
    <img src="image.jpg" alt="Sample Image" width="200" height="150">
