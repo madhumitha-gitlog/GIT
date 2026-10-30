@@ -1,0 +1,12 @@
+
+uuuuuu====
+   <title>My First Webpage</title>
+</head>
+<body>
+   <h1>Welcome to My Website</h1>
+>>>>>>> feature
+   <p>This is my first paragraph in HTML.</p>
+   <a href="https://www.example.com">Visit Example</a>
+   <img src="image.jpg" alt="Sample Image" width="200" height="150">
+</body>
+</html>
